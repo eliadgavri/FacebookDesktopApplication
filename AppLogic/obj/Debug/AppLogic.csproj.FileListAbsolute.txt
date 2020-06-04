@@ -1,0 +1,95 @@
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\Facebook.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\Facebook.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\Facebook.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\Facebook.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\Facebook.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csprojAssemblyReference.cache
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppLogic\obj\Debug\AppLogic.pdb

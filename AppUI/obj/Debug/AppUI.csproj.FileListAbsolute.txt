@@ -1,0 +1,194 @@
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\Facebook.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\bin\Debug\AppUI.exe
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\bin\Debug\AppUI.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\bin\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.exe
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 03010016\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 06012128\AppUI\obj\Debug\AppUI.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\nissi\Documents\Limudim\Design Patterns\Ex02\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697 FINAL\A20 Ex02 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\Facebook.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\Facebook.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\Facebook.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697 update 16012100\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\Facebook.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\Desktop\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\source\repos\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.exe
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppUI.pdb
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormFilterPosts.resources
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLocationsMap.resources
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormLogin.resources
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.FormMainPage.resources
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.Properties.Resources.resources
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.GenerateResource.cache
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.exe
+C:\Users\Eliad\לימודים\תבניות עיצוב\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\A20 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\AppUI\obj\Debug\AppUI.pdb
