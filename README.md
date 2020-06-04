@@ -12,6 +12,6 @@ Designed using Winforms and programmed in C# with couple of Design Patterns impl
 
 ## Screenshots:
 ![Login](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/Login.PNG)
-![MainScreen](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/MainScreen.PNG)
-![FriendsPosts](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/FriendsPosts.PNG)
-![LocationsOnMap](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/LocationsOnMap.PNG)
+![MainScreen](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/MainScreen.jpg)
+![FriendsPosts](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/FriendsPosts.jpg)
+![LocationsOnMap](https://github.com/eliadgavri/FacebookDesktopApplication/raw/master/ScreenShots/LocationsOnMap.jpg)
